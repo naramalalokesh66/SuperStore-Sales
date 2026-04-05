@@ -17,7 +17,7 @@ This project presents an advanced Business Performance Dashboard built using Pow
 
 
  📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+[Dashboard Screenshots](SuperStore-Sales%20Dashboards.zip)
 
 
  🔧 Tools & Technologies
@@ -44,7 +44,7 @@ This project presents an advanced Business Performance Dashboard built using Pow
 
 
  📁 Project Files
-- [Download Power BI File](Sales%20by%20Shipments%20Dashboard.pbix)
+- [Download Power BI File](SuperStore%20Sales.pbix)
 
 
 
